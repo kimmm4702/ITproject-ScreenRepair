@@ -1,0 +1,65 @@
+#IT Project: Phone Repair - Screen Replacement
+
+### Device Information
+
+Model : iPhone XR
+Issue : Unresponsive touch and Cracked Screen
+
+### Tools & Materials
+
+-iPhone XR Screen Replacement
+- Precision tools:
+    - Y000 screw
+    - Phillips screw
+- 2 plastic opening picks
+- Plastic spudger
+- Waterproof Seal
+- Tweezers
+- Suction cup
+
+### Troubleshooting & Diagnosis
+
+Inspected the device for physical damage and identified a cracked screen along with minor keyboard/touch issues in the bottom-right corner of the display. The user stated that phone was dropped right before the screen became unresponsive. 
+Tested the touchscreen functionality and confirmed that there was no screen response; only the side buttons were operational. Restarted the device to rule out a potential software malfunction. All internal components appeared to work properly, but the touch screen remain unresponsive after reboot.
+
+### Repair Process
+
+1. Waited for the phone to die - power needs to be off the device
+2. Removed the two bottom pentalobe screws from the bottom of the phone
+3. Apply heat around the edges of the screen with a blow dryer to loosen the adhesive 
+4. Carefully separated display using a plastic guitar pick and a suction cup
+5. Lifted the screen from the side (like and open book) and placed heavy object behind the screen for support to prevent for it to damage flex cables
+6. Remove the three tri-wing screws that were securing the battery connector backet
+7. Disconnected battery and display flex cables that  hold the battery bracket and lift the bracket with tweezers
+8. Disconnected the battery cable using a plastic spudger
+9. Removed the screws holding the display and top shield 
+10. Disconnected the front sensor and ear speaker cable and carefully remove the screen from the phone
+11. Removed any old adhesive from the frame and cleaned away dust/debris
+12. Applied new adhesive around the edges of the phone
+13. From the old screen, I removed screws holding the ear speaker assembly
+14. Removed small sensor bracket and carefully remove the proximity sensor, ambient light sensor and front microphone
+15. Transferred these part to the new screen and begin reassembling everything back to place
+16. Positioned the new screen next to the phone and reconnect all the cables
+17. Reinstalled all the screws and remove the adhesive film
+18. Aligned the top screen with the phone and press around all the edges
+19. Reinstalled the two bottom screws and turn the phone on
+20. Tested the touchscreen response and other feature necessary
+
+https://youtu.be/T-Hxa_NzP8w?si=PnnTsI5-Tj1nGu2B
+
+### Testing & Results
+The device was successfully connected and restored. Touchscreen responsiveness, brightness, and color display were tested and confirmed to be working properly. 
+The device was powered normally and the user was able to access their data without any issues.
+
+### Challenges Encountered
+- Removing excess adhesive carefully to avoid damaging internal components
+- Removing and organizing small screws during the disassembly process
+
+### Skills Demonstrated
+- Hardware troubleshooting
+- Mobile Device repair
+- Attention to detail
+- Technical documentation
+- Problem-Solving
+- Safe handling of electronic components
+
